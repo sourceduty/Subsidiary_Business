@@ -34,6 +34,8 @@ Ultimately, Subsidiary Business aims to empower users with the knowledge and too
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
 <br>
 [Sourceduty 2](https://github.com/sourceduty/Sourceduty_2)
+<br>
+[Business Conglomerate](https://github.com/sourceduty/Business_Conglomerate)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
