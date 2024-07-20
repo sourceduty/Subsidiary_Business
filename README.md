@@ -1,4 +1,4 @@
-![Subsidiary Business](https://github.com/user-attachments/assets/a1f477f2-b355-4a72-bcb6-08fe79fd0cb1)
+![Subsidiary Business](https://github.com/user-attachments/assets/7891edda-e8f5-4653-96c5-f7d5a0018899)
 
 > Assistive business subsidiary developer.
 
